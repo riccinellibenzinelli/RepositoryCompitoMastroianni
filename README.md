@@ -74,5 +74,6 @@ Compatibile con browser e mobile
 <img width="918" height="390" alt="image" src="https://github.com/user-attachments/assets/a10a111f-17b6-41fb-be5c-985902769804" />
 
 # Uml Use Case
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd9136de-a4b1-4502-a8fb-bfbe33c2e39d" />
+<img width="1288" height="401" alt="image" src="https://github.com/user-attachments/assets/949f0bd3-9523-4df8-ae12-f6899a1c2426" />
+
 
