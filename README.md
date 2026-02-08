@@ -74,7 +74,7 @@ Compatibile con browser e mobile
 <img width="918" height="390" alt="image" src="https://github.com/user-attachments/assets/a10a111f-17b6-41fb-be5c-985902769804" />
 
 # Uml Use Case
-<img width="1288" height="355" alt="image" src="https://github.com/user-attachments/assets/5be8ad7e-0a75-49be-93ea-899c6d996ef5" />
+<img width="809" height="666" alt="image" src="https://github.com/user-attachments/assets/9e5d73e3-5f06-41ec-8df0-2c06fbb134f8" />
 
 # timestamp JWT
 1758872765
