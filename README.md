@@ -79,6 +79,16 @@ Compatibile con browser e mobile
 # timestamp JWT
 1758872765
 
+# Elevator pitch
+Organizzare un viaggio di gruppo oggi è sorprendentemente complicato.
+Ci sono mille chat, decisioni che non arrivano mai, budget poco chiari e persone che restano escluse dalle scelte. Il risultato? Stress, discussioni e viaggi che spesso partono già male.
+
+TripSync nasce per risolvere questo problema.
+È una web app che offre a gruppi di amici, coppie o colleghi uno spazio unico dove pianificare il viaggio in modo collaborativo: si propongono mete, si votano attività, si gestisce il budget condiviso e si costruisce un itinerario giornaliero chiaro per tutti.
+
+Grazie all’integrazione con Google Maps, Booking e Skyscanner, TripSync permette di trovare voli, alloggi e percorsi senza uscire dalla piattaforma.
+Meno caos, più decisioni, più viaggi fatti davvero.
+
 # Link lovable
 https://id-preview--619d2781-a8e8-4001-9775-c819847ffb48.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiRThCdmdBV3NLWlFvQ3h0SnpUSXU0VTNFM3lGMyIsInByb2plY3RfaWQiOiI2MTlkMjc4MS1hOGU4LTQwMDEtOTc3NS1jODE5ODQ3ZmZiNDgiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjYxOWQyNzgxLWE4ZTgtNDAwMS05Nzc1LWM4MTk4NDdmZmI0OCIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzExODU0NzUsIm5iZiI6MTc3MDU4MDY3NSwiaWF0IjoxNzcwNTgwNjc1fQ.j-xAa-IRLpplCwUyOHH1UplzydWq0DuELCSFN3yHFYUKxVV_JRAyWWmLA5eq-flzfBYbpD9YyMeHgKUTZo9UoniCttfnf8waXb4do_bOGV5Dl7mupd4R8egcYEBp9MjZkPD-7olbXYkIlJUDaVw-myzSv2n6ZcSL4xPdya4IuDB3HLhSb8kPRGB21wKdInkV_O-UrnF-38hf4qg0IxIFbJZSQXmu3yqtgvVEfVoexICFTCAC9qhTPIFdkIEV2GqWJS0Jg5jsAwGvm6sL52lZSWuxOyeodblNc-Hc8vV2hc6DRk5T10GWx9N0U8_76Pka4vEXs14dNimiILryhZrDivLPRrhvizjCNLmOzyCwANp_mp5wd_99oisXa0QJnZ5lpLq1SI00-Dglb79GJGzCzba0Il1ZSXA075J01pvwRmrcBYDImAtlXHaTtoVhOXnriaj_FzkOArFqvVvDB4F0PjLjNQ160gXy2n3cNXEDJGYScTuUr0qQTDSesaibRH4JcNKQ7q3xAbnUVvB0bMs8l_6hk4d-2dnhdIAcpE0Lw5uoOPFenHfTnXEQZZTHb-syCO-WJveXDYDJBgPVJpoh4fDfqL-5JTaEferexnaTQKSkYpUcwt9JUedarpBDHrlI_eGz32MfMoku5eXzeRu2zlSPMVdEwizTCI3TH2qQY-4
 
