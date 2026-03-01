@@ -81,11 +81,17 @@ Compatibile con browser e mobile
 1758872765
 
 # Elevator pitch
-Ciao, sono Riccardo e vi presento TripSync, una web app pensata per rivoluzionare il modo in cui i gruppi di persone organizzano i loro viaggi insieme. Oggi pianificare un viaggio di gruppo è spesso un caos: troppe chat, decisioni che si perdono, budget poco chiari e responsabilità confuse. TripSync risolve tutto questo mettendo a disposizione un’unica piattaforma dove amici, coppie o colleghi possono proporre mete, votare attività, gestire il budget comune e creare itinerari condivisi in modo semplice ed efficace.
+Ciao, sono Riccardo e vi presento TripSync, una piattaforma SaaS pensata per semplificare l’organizzazione dei viaggi di gruppo.
 
-La nostra soluzione si integra con Google Maps, Booking e Skyscanner per trovare voli, alloggi e percorsi senza dover saltare tra siti diversi, eliminando frustrazione e dispersione di tempo. Il target principale sono i giovani tra i 18 e i 35 anni, gruppi di studenti e lavoratori, e anche agenzie che organizzano viaggi collettivi.
+Quando più persone devono organizzare un viaggio, tutto diventa complicato: chat infinite, decisioni confuse, difficoltà nel gestire il budget e nessuno che ha una visione completa del piano finale.
 
-TripSync si finanzia tramite commissioni sulle prenotazioni, abbonamenti premium e sponsorizzazioni; per il team, tecnologie web moderne e design responsivo assicurano un’esperienza fluida e scalabile.
+TripSync risolve questa situazione offrendo un’unica piattaforma online dove i membri del gruppo possono proporre destinazioni, votare attività, organizzare l’itinerario e gestire le spese condivise in modo chiaro e strutturato.
+
+Il nostro modello di business è Software as a Service: gli utenti pagano un abbonamento per accedere al servizio. Offriamo una versione base e una versione avanzata con funzionalità extra, pensata per gruppi organizzati, community e agenzie che gestiscono viaggi collettivi.
+
+In questo modo generiamo ricavi ricorrenti e costruiamo una piattaforma scalabile nel settore travel.
+
+TripSync trasforma il caos organizzativo in un processo semplice, collaborativo e digitale.”
 # Link lovable
 https://id-preview--619d2781-a8e8-4001-9775-c819847ffb48.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiRThCdmdBV3NLWlFvQ3h0SnpUSXU0VTNFM3lGMyIsInByb2plY3RfaWQiOiI2MTlkMjc4MS1hOGU4LTQwMDEtOTc3NS1jODE5ODQ3ZmZiNDgiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjYxOWQyNzgxLWE4ZTgtNDAwMS05Nzc1LWM4MTk4NDdmZmI0OCIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3NzExODU0NzUsIm5iZiI6MTc3MDU4MDY3NSwiaWF0IjoxNzcwNTgwNjc1fQ.j-xAa-IRLpplCwUyOHH1UplzydWq0DuELCSFN3yHFYUKxVV_JRAyWWmLA5eq-flzfBYbpD9YyMeHgKUTZo9UoniCttfnf8waXb4do_bOGV5Dl7mupd4R8egcYEBp9MjZkPD-7olbXYkIlJUDaVw-myzSv2n6ZcSL4xPdya4IuDB3HLhSb8kPRGB21wKdInkV_O-UrnF-38hf4qg0IxIFbJZSQXmu3yqtgvVEfVoexICFTCAC9qhTPIFdkIEV2GqWJS0Jg5jsAwGvm6sL52lZSWuxOyeodblNc-Hc8vV2hc6DRk5T10GWx9N0U8_76Pka4vEXs14dNimiILryhZrDivLPRrhvizjCNLmOzyCwANp_mp5wd_99oisXa0QJnZ5lpLq1SI00-Dglb79GJGzCzba0Il1ZSXA075J01pvwRmrcBYDImAtlXHaTtoVhOXnriaj_FzkOArFqvVvDB4F0PjLjNQ160gXy2n3cNXEDJGYScTuUr0qQTDSesaibRH4JcNKQ7q3xAbnUVvB0bMs8l_6hk4d-2dnhdIAcpE0Lw5uoOPFenHfTnXEQZZTHb-syCO-WJveXDYDJBgPVJpoh4fDfqL-5JTaEferexnaTQKSkYpUcwt9JUedarpBDHrlI_eGz32MfMoku5eXzeRu2zlSPMVdEwizTCI3TH2qQY-4
 
