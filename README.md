@@ -73,17 +73,13 @@ Compatibile con browser e mobile
 1758872765
 
 # Elevator pitch
-Ciao, sono Riccardo e vi presento TripSync, una piattaforma SaaS pensata per semplificare l’organizzazione dei viaggi di gruppo.
+Buongiorno, sono Riccardo Viapiana, co-founder di TripSync. Se avete mai provato a organizzare un viaggio di gruppo, sapete bene che il divertimento finisce ancor prima di partire: ci si ritrova sommersi da centinaia di messaggi su WhatsApp, link persi e fogli Excel impossibili da gestire. Questo caos trasforma la pianificazione in un lavoro stressante e disorganizzato.
 
-Quando più persone devono organizzare un viaggio, tutto diventa complicato: chat infinite, decisioni confuse, difficoltà nel gestire il budget e nessuno che ha una visione completa del piano finale.
+Per risolvere questo problema abbiamo creato TripSync, un’unica piattaforma che centralizza l’intera esperienza. Con la nostra app, l'itinerario, la gestione del budget comune e tutti i documenti di viaggio sono sincronizzati in tempo reale per ogni partecipante. Non siamo un semplice archivio, ma uno strumento sociale che rende la collaborazione fluida e immediata.
 
-TripSync risolve questa situazione offrendo un’unica piattaforma online dove i membri del gruppo possono proporre destinazioni, votare attività, organizzare l’itinerario e gestire le spese condivise in modo chiaro e strutturato.
+Il nostro modello di business è un Software as a Service basato su una struttura freemium: offriamo le funzioni essenziali gratuitamente e un abbonamento Premium per chi desidera strumenti avanzati come la gestione offline e analisi del budget dettagliate. A differenza dei nostri competitor, noi mettiamo al centro l'interazione tra le persone, eliminando definitivamente la frammentazione tra diverse app.
 
-Il nostro modello di business è Software as a Service: gli utenti pagano un abbonamento per accedere al servizio. Offriamo una versione base e una versione avanzata con funzionalità extra, pensata per gruppi organizzati, community e agenzie che gestiscono viaggi collettivi.
-
-In questo modo generiamo ricavi ricorrenti e costruiamo una piattaforma scalabile nel settore travel.
-
-TripSync trasforma il caos organizzativo in un processo semplice, collaborativo e digitale.”
+Oggi siamo qui per richiedere un investimento di 50000 € che ci permetta di potenziare l'infrastruttura tecnica e avviare le prime campagne di marketing. Con il vostro supporto, possiamo trasformare il modo in cui il mondo viaggia in gruppo.
 # Link lovable
 https://travel-hive-co.lovable.app
 
