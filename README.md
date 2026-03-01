@@ -142,5 +142,5 @@ graph TD
     I --> I4["Validazione Business Model"]
 ```
 
-# Diagramma gant
+# Diagramma Gantt
 <img width="1039" height="665" alt="image" src="https://github.com/user-attachments/assets/13f9c90a-b644-4447-913e-dc823b1f16df" />
