@@ -71,7 +71,8 @@ Uptime ≥ 99%
 Compatibile con browser e mobile
 
 # Tabella di benchmarking
-<img width="918" height="390" alt="image" src="https://github.com/user-attachments/assets/a10a111f-17b6-41fb-be5c-985902769804" />
+<img width="918" height="332" alt="image" src="https://github.com/user-attachments/assets/d6068f2b-da95-488e-a6b2-6c8b6e0246d1" />
+
 
 # Uml Use Case
 <img width="809" height="666" alt="image" src="https://github.com/user-attachments/assets/9e5d73e3-5f06-41ec-8df0-2c06fbb134f8" />
