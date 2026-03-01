@@ -9,14 +9,6 @@ Ogni utente può proporre mete, votare attività, gestire il budget comune e cre
 
 Integra Google Maps, Booking e Skyscanner, permettendo di trovare alloggi, voli e percorsi in un solo luogo.
 
-# Monetizzazione
-
-Commissioni sulle prenotazioni
-
-Abbonamento Premium
-
-Sponsorizzazioni
-
 # Problema
 
 
