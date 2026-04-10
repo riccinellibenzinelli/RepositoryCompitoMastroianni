@@ -62,6 +62,19 @@ Uptime ≥ 99%
 
 Compatibile con browser e mobile
 
+# Requisiti di dominio
+Sincronizzazione Real-Time: itinerari aggiornati istantaneamente per tutti.
+
+Votazione Democratica: gestione delle tappe a maggioranza di gruppo.
+
+Split-Payment: calcolo automatico dei debiti tra i partecipanti.
+
+Integrazione API: prezzi voli e hotel aggiornati in tempo reale.
+
+Offline Mode: accesso ai documenti e mappe senza connessione.
+
+Sicurezza Dati: crittografia dei documenti e conformità GDPR.
+
 # User Story
 <img width="724" height="272" alt="image" src="https://github.com/user-attachments/assets/8ecfa475-84a2-4249-a4c1-05ad21311254" />
 
