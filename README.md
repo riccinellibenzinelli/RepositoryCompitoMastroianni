@@ -62,6 +62,10 @@ Uptime ≥ 99%
 
 Compatibile con browser e mobile
 
+# User Story
+<img width="724" height="272" alt="image" src="https://github.com/user-attachments/assets/8ecfa475-84a2-4249-a4c1-05ad21311254" />
+
+
 # Tabella di benchmarking
 <img width="918" height="332" alt="image" src="https://github.com/user-attachments/assets/d6068f2b-da95-488e-a6b2-6c8b6e0246d1" />
 
